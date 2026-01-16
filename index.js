@@ -1,17 +1,14 @@
-/**
- * twilio-node
- * poc for bug bounty 
- */
+#!/usr/bin/env node
 
-function hello(name = 'World') {
-  return `Hello, ${name}!`;
-}
+'use strict';
 
-function add(a, b) {
-  return a + b;
-}
+console.log(`
+🚀 Welcome to twilio-node!
 
-module.exports = {
-  hello,
-  add
-};
+This is bug bounty poc by @Gopal_ethical🎉
+
+👉 Version: 1.0.0
+👉 Author: @Gopal_ethical
+
+Have a great day!
+`);
