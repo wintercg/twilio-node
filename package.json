@@ -1,1 +1,9 @@
-
+{
+  "name": "twilio-node",
+  "version": "1.0.0",
+  "description": "A place holder package not real or official",
+  "main": "index.js",
+  "keywords": ["twilio-node", "node", "utility"],
+  "author": "@Gopal_ethical",
+  "license": "M"
+}
