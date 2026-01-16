@@ -4,7 +4,7 @@
   "description": "Bug bounty poc placeholder package",
   "main": "index.js",
   "bin": {
-    "olio-node": "./index.js"
+    "twilio-node": "./index.js"
   },
   "keywords": ["twilio-node", "cli", "node"],
   "author": "@Gopal_ethical",
